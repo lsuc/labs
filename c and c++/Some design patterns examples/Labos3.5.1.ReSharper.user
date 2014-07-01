@@ -1,0 +1,60 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="2DF6952C-F73E-413A-B3E9-D67A75172530/f:Zad1 - Prilagodnik.cpp" caret="1904" fromTop="41" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="3393" fromTop="2" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="1001" fromTop="41" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="738" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="3720" fromTop="37" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="606" fromTop="21" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="3363" fromTop="21" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="923" fromTop="33" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="1874" fromTop="21" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="2893" fromTop="21" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="3820" fromTop="33" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="2667" fromTop="20" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="2773" fromTop="25" />
+      <File id="9AD26E97-79C6-4F92-9ED5-5D30F6265E94/f:Zad2 - Iteratori.cpp" caret="3410" fromTop="31" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="141" fromTop="7" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="764" fromTop="31" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="784" fromTop="31" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="903" fromTop="39" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="1137" fromTop="36" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="597" fromTop="23" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="718" fromTop="31" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="860" fromTop="38" />
+      <File id="EDBDDD06-5582-44BC-BD9F-D40215F0DAA9/f:Zad3 - Template Method.cpp" caret="1001" fromTop="41" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="278" fromTop="8" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="885" fromTop="25" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="421" fromTop="22" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="526" fromTop="31" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="472" fromTop="27" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="374" fromTop="18" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="885" fromTop="38" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="218" fromTop="10" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="146" fromTop="6" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="883" fromTop="28" />
+      <File id="5D8FB750-21B1-4A0D-9730-F9A1FA8F12AF/f:Zad5 - Composite.cpp" caret="733" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
